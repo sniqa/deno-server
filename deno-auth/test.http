@@ -1,0 +1,9 @@
+@url=http://localhost:8000/api
+
+@json=Content-Type: application/json
+
+###
+{{url}}/find
+
+###
+{{url}}
